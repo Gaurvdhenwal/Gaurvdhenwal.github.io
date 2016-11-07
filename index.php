@@ -47,7 +47,7 @@
         <li><a href="#clients">CUSTOMERS</a></li>
         
         <li><a href="#contact">CONTACT</a></li>
-        <li id="signIn" ><a href="signin.php" >SIGN IN</a></li>
+        <li id="signIn" ><a href="signin.html" >SIGN IN</a></li>
       </ul>
     </div>
   </div>
