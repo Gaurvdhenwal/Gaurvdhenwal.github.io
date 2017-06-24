@@ -1,0 +1,43 @@
+body{
+  font-family: 'Roboto', sans-serif;
+  background-image:url('../images/bg.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size:cover;
+}
+
+.banner{
+  height:20vh;
+  background-color: #7c4dff   ;
+}
+
+.margin-none{
+  margin: none !important;
+}
+
+.container{
+  z-index: 10000;
+  background-color: white;
+}
+.margin-v-m5{
+  margin-top:-10vh !important;
+}
+
+.tab{
+  background-color: #e91e63;
+}
+.tabs .indicator{
+  background-color: #00bcd4 !important;
+}
+.tab > a.active{
+  background-color: #00bcd4 !important;
+
+}
+.tab  a{
+  color:white !important;
+}
+
+
+#personal{
+  padding-top:20px;
+}
