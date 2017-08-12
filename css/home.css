@@ -7,7 +7,9 @@ body{
 }
 
 .banner{
-  height:20vh;
+  height:18vh;
+  padding-top: 20px;
+  padding-right: 20px;
   background-color: #7c4dff   ;
 }
 
@@ -22,7 +24,10 @@ body{
 .margin-v-m5{
   margin-top:-10vh !important;
 }
-
+.padding-v-20{
+  padding-top:20px !important;
+  padding-bottom: 20px !important;
+}
 .tab{
   background-color: #e91e63;
 }
@@ -38,6 +43,6 @@ body{
 }
 
 
-#personal{
+#personal , #acedemic{
   padding-top:20px;
 }
